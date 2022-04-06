@@ -5,14 +5,14 @@
 
 <br/>
 
-<div style = "margin-left:30px;">
+<div style = "margin-left:30px;" align= "center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-kunal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <br/>
 
-<div style = "margin-left:30px;">
+<div style = "margin-left:30px;" align= "center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-kunal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
