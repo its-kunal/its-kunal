@@ -9,8 +9,8 @@
 
 ## Projects:
 - 💬 **[Chatterbox](https://github.com/its-kunal/chatterbox)**: A realtime chat application with an AI chatbot, utilizing Langchain, VertexAI, and Socket.io for seamless communication.
-- 🌾 **[Agrosite](https://github.com/its-kunal/agrosite)**: A marketplace for farmers, powered by Firebase services, React Bootstrap, and Firebase Cloud Storage for smooth media handling.
-- 📊 **[Opinionest](https://github.com/its-kunal/opinionest)**: A poll application developed using the MERN stack, featuring interactive charts with Chart.js for rich data visualization.
+- 🌾 **[Agrosite](https://github.com/its-kunal-ssi/FarmLink)**: A marketplace for farmers, powered by Firebase services, React Bootstrap, and Firebase Cloud Storage for smooth media handling.
+- 📊 **[Opinionest](https://github.com/its-kunal/opinonest)**: A poll application developed using the MERN stack, featuring interactive charts with Chart.js for rich data visualization.
 
 ## Connect with me:
 - 📱 [**CodeChef**](https://www.codechef.com/users/its_kunal)
